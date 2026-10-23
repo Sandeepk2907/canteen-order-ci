@@ -2,7 +2,7 @@
 
 GST_RATE = 0.05
 DISCOUNT_RATE = 0.10
-DISCOUNT_THRESHOLD = 200  # discount applies only when subtotal is ABOVE this (in rupees)
+DISCOUNT_THRESHOLD = 300  # discount applies only when subtotal is ABOVE this (in rupees)
 
 
 def calculate_total(subtotal: float) -> float:
