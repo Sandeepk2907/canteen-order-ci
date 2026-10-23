@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Canteen Pre-Order System: Order Module + CI (Task 5)
 
 `calculate_total(subtotal)` in `order.py` returns the payable amount:
@@ -36,3 +37,6 @@ Tests are in `test_order.py`. CI is in `.github/workflows/ci.yml` and runs `pyte
    show the failing test output (**failing run**).
 
 3. Revert the change, commit, push. The run goes green again.
+=======
+# canteen-order-ci
+>>>>>>> 3fe552da497bc26e04ea0f2b75ab004eb8a6037d
